@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "some shit 007",
+      "attention": true,
+      "tech": "Pet Doe",
+      "date": "2019-12-23T07:49:12.390Z"
+    },
+    {
+      "id": 2,
+      "message": "some shit 008",
+      "attention": true,
+      "tech": "Jhon Doe",
+      "date": "2019-12-23T08:00:13.598Z"
+    },
+    {
+      "id": 3,
+      "message": "some shit 009",
+      "attention": true,
+      "tech": "Sarah Doe",
+      "date": "2019-12-23T08:02:35.198Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sarha",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Bogdanov",
+      "id": 4
+    }
+  ]
+}
